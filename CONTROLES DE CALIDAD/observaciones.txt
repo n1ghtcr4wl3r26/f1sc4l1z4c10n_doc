@@ -1,0 +1,9 @@
+EDGAR
+
+tienes que identificar cuáles son las condiciones normales para que no FALLE
+
+no probando o suponiendo, si no estando SEGURO de que cosas son realmente IMPORTANTES
+Por favor la Macro tiene que llamarse MACRO ….
+•	Si se quiere salir en producción Se deben corregir todos los errores
+•	SACAR la pestaña de Fiscalización diferida (como pidieron)
+•	Reporte para que encuentren sus Ordenes de Fiscalización, cuando no sepan cual es la memorizada
