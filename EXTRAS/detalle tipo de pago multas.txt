@@ -1,0 +1,34 @@
+
+
+OP Omision de Pago 
+CA DUI Contravenci&oacute;n Aduanera relacionada con la DUI
+CAO Contravenci&oacute;n Aduanera relacionada con la Orden 
+CC Contrabando Contravencional 
+CD Contrabando Delito 
+DF Defraudaci&oacute;n 
+OD Otros Delitos 
+
+
+
+
+OP - Sanci&oacute;n por Omisi&oacute;n de Pago
+CA DUI - Multa por Contravenci&oacute;n Aduanera relacionada a la Declaraci&oacute;n
+CAO - Multa por Contravenci&oacute;n Aduanera relacionada a la Orden de Control Posterior
+CC - Multa por Contrabando Contravencional
+CD - Multa por Contrabando Delito
+DF - Multa por Defraudaci&oacute;n
+CI FP - Cuota Inicial - Facilidades de Pago
+GE FP - Garant&iacute;a en efectivo - Facilidades de Pago
+
+
+
+
+OP 
+CA DUI
+CC 
+CD 
+
+CI FP
+GE FP
+
+
