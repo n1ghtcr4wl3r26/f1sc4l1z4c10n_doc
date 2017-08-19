@@ -1,0 +1,8 @@
+Acta de reunion Fichas infromativas FISCALIZACIÓN SICODIF MIRA
+
+1.- En la operación de Inicio de Control Diferido, cuando se seleccione un DUI el sistema verificará si en la seleccion tipo de control existe y esta pendiente, en este caso registrará el tipo de Control Diferido SICODIF. En el momento de PROCESAR en la opción Declaraciones para Asignar.
+
+2.- Cuando se registra una Orden de Fiscalización en el sistema FISAP, se verificará en el MIRA si las DUI's están pendientes de control, en caso que lo esten colocar Control posterior identificando si es regional o central, en el evento de Generación de la Orden de Fiscalización.
+
+3.- GNF solicita que se puede regularizar esta acción en la información ya registrada anteriormente en el sistema informatico.
+
